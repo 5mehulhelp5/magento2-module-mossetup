@@ -1,8 +1,14 @@
 <?php
-use Magento\Framework\Component\ComponentRegistrar;
+/**
+ * Módulo de creación de datos básicos para catálogo
+ * 
+ * @category   Atelier
+ * @package    Atelier_MOSSetup
+ * @author     Developer
+ */
 
-ComponentRegistrar::register(
-    ComponentRegistrar::MODULE,
+\Magento\Framework\Component\ComponentRegistrar::register(
+    \Magento\Framework\Component\ComponentRegistrar::MODULE,
     'Atelier_MOSSetup',
     __DIR__
 );

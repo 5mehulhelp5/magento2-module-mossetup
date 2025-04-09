@@ -1,0 +1,641 @@
+{
+  "categories": [
+    {
+      "code": "ROPA_MUJER",
+      "name": "Ropa Mujer",
+      "url_key": "ropa-mujer",
+      "subcategories": [
+        {
+          "code": "MUJER_ROPA",
+          "name": "Mujer - Ropa",
+          "url_key": "ropa",
+          "subcategories": [
+            {
+              "code": "MUJER_CAMISETAS",
+              "name": "Camisetas",
+              "url_key": "camisetas"
+            },
+            {
+              "code": "MUJER_CAMISAS",
+              "name": "Camisas",
+              "url_key": "camisas"
+            },
+            {
+              "code": "MUJER_TOPS",
+              "name": "Tops",
+              "url_key": "tops"
+            },
+            {
+              "code": "MUJER_JERSEIS",
+              "name": "Jerséis",
+              "url_key": "jerseis"
+            },
+            {
+              "code": "MUJER_SUDADERAS",
+              "name": "Sudaderas",
+              "url_key": "sudaderas"
+            },
+            {
+              "code": "MUJER_CHALECOS",
+              "name": "Chalecos",
+              "url_key": "chalecos"
+            },
+            {
+              "code": "MUJER_PANTALONES",
+              "name": "Pantalones",
+              "url_key": "pantalones"
+            },
+            {
+              "code": "MUJER_JEANS",
+              "name": "Jeans",
+              "url_key": "jeans"
+            },
+            {
+              "code": "MUJER_LEGGINGS",
+              "name": "Leggings",
+              "url_key": "leggings"
+            },
+            {
+              "code": "MUJER_FALDAS",
+              "name": "Faldas",
+              "url_key": "faldas"
+            },
+            {
+              "code": "MUJER_SHORTS",
+              "name": "Shorts",
+              "url_key": "shorts"
+            },
+            {
+              "code": "MUJER_ABRIGOS",
+              "name": "Abrigos",
+              "url_key": "abrigos"
+            },
+            {
+              "code": "MUJER_CHAQUETAS",
+              "name": "Chaquetas",
+              "url_key": "chaquetas"
+            },
+            {
+              "code": "MUJER_PARKAS",
+              "name": "Parkas",
+              "url_key": "parkas"
+            },
+            {
+              "code": "MUJER_AMERICANAS",
+              "name": "Americanas",
+              "url_key": "americanas"
+            },
+            {
+              "code": "MUJER_VESTIDOS",
+              "name": "Vestidos",
+              "url_key": "vestidos"
+            },
+            {
+              "code": "MUJER_MONOS",
+              "name": "Monos",
+              "url_key": "monos"
+            }
+          ]
+        },
+        {
+          "code": "MUJER_INTERIOR",
+          "name": "Mujer - Ropa interior",
+          "url_key": "interior",
+          "subcategories": [
+            {
+              "code": "MUJER_BRAGAS",
+              "name": "Bragas",
+              "url_key": "bragas"
+            },
+            {
+              "code": "MUJER_SUJETADORES",
+              "name": "Sujetadores",
+              "url_key": "sujetadores"
+            },
+            {
+              "code": "MUJER_BODYS",
+              "name": "Bodys",
+              "url_key": "bodys"
+            },
+            {
+              "code": "MUJER_PIJAMAS",
+              "name": "Pijamas",
+              "url_key": "pijamas"
+            }
+          ]
+        },
+        {
+          "code": "MUJER_ACCESORIOS",
+          "name": "Mujer - Accesorios",
+          "url_key": "accesorios",
+          "subcategories": [
+            {
+              "code": "MUJER_BOLSOS",
+              "name": "Bolsos",
+              "url_key": "bolsos"
+            },
+            {
+              "code": "MUJER_MOCHILAS",
+              "name": "Mochilas",
+              "url_key": "mochilas"
+            },
+            {
+              "code": "MUJER_GAFAS_SOL",
+              "name": "Gafas de sol",
+              "url_key": "gafas-de-sol"
+            },
+            {
+              "code": "MUJER_GORROS",
+              "name": "Gorros",
+              "url_key": "gorros"
+            },
+            {
+              "code": "MUJER_BUFANDAS",
+              "name": "Bufandas",
+              "url_key": "bufandas"
+            },
+            {
+              "code": "MUJER_GUANTES",
+              "name": "Guantes",
+              "url_key": "guantes"
+            },
+            {
+              "code": "MUJER_CINTURONES",
+              "name": "Cinturones",
+              "url_key": "cinturones"
+            },
+            {
+              "code": "MUJER_JOYERIA",
+              "name": "Joyería",
+              "url_key": "joyeria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ROPA_ADOLESCENTE",
+      "name": "Ropa Adolescente",
+      "url_key": "ropa-adolescente",
+      "subcategories": [
+        {
+          "code": "ADOLESCENTE_ROPA",
+          "name": "Adolescente - Ropa",
+          "url_key": "ropa",
+          "subcategories": [
+            {
+              "code": "ADOLESCENTE_CAMISETAS",
+              "name": "Camisetas",
+              "url_key": "camisetas"
+            },
+            {
+              "code": "ADOLESCENTE_CAMISAS",
+              "name": "Camisas",
+              "url_key": "camisas"
+            },
+            {
+              "code": "ADOLESCENTE_TOPS",
+              "name": "Tops",
+              "url_key": "tops"
+            },
+            {
+              "code": "ADOLESCENTE_JERSEIS",
+              "name": "Jerséis",
+              "url_key": "jerseis"
+            },
+            {
+              "code": "ADOLESCENTE_SUDADERAS",
+              "name": "Sudaderas",
+              "url_key": "sudaderas"
+            },
+            {
+              "code": "ADOLESCENTE_CHALECOS",
+              "name": "Chalecos",
+              "url_key": "chalecos"
+            },
+            {
+              "code": "ADOLESCENTE_PANTALONES",
+              "name": "Pantalones",
+              "url_key": "pantalones"
+            },
+            {
+              "code": "ADOLESCENTE_JEANS",
+              "name": "Jeans",
+              "url_key": "jeans"
+            },
+            {
+              "code": "ADOLESCENTE_LEGGINGS",
+              "name": "Leggings",
+              "url_key": "leggings"
+            },
+            {
+              "code": "ADOLESCENTE_FALDAS",
+              "name": "Faldas",
+              "url_key": "faldas"
+            },
+            {
+              "code": "ADOLESCENTE_SHORTS",
+              "name": "Shorts",
+              "url_key": "shorts"
+            },
+            {
+              "code": "ADOLESCENTE_ABRIGOS",
+              "name": "Abrigos",
+              "url_key": "abrigos"
+            },
+            {
+              "code": "ADOLESCENTE_CHAQUETAS",
+              "name": "Chaquetas",
+              "url_key": "chaquetas"
+            },
+            {
+              "code": "ADOLESCENTE_AMERICANAS",
+              "name": "Americanas",
+              "url_key": "americanas"
+            },
+            {
+              "code": "ADOLESCENTE_VESTIDOS",
+              "name": "Vestidos",
+              "url_key": "vestidos"
+            },
+            {
+              "code": "ADOLESCENTE_MONOS",
+              "name": "Monos",
+              "url_key": "monos"
+            }
+          ]
+        },
+        {
+          "code": "ADOLESCENTE_INTERIOR",
+          "name": "Adolescente - Ropa interior",
+          "url_key": "interior",
+          "subcategories": [
+            {
+              "code": "ADOLESCENTE_BRAGAS",
+              "name": "Bragas",
+              "url_key": "bragas"
+            },
+            {
+              "code": "ADOLESCENTE_CALZONCILLOS",
+              "name": "Calzoncillos",
+              "url_key": "calzoncillos"
+            },
+            {
+              "code": "ADOLESCENTE_SUJETADORES",
+              "name": "Sujetadores",
+              "url_key": "sujetadores"
+            },
+            {
+              "code": "ADOLESCENTE_PIJAMAS",
+              "name": "Pijamas",
+              "url_key": "pijamas"
+            }
+          ]
+        },
+        {
+          "code": "ADOLESCENTE_ACCESORIOS",
+          "name": "Adolescente - Accesorios",
+          "url_key": "accesorios",
+          "subcategories": [
+            {
+              "code": "ADOLESCENTE_BOLSOS",
+              "name": "Bolsos",
+              "url_key": "bolsos"
+            },
+            {
+              "code": "ADOLESCENTE_MOCHILAS",
+              "name": "Mochilas",
+              "url_key": "mochilas"
+            },
+            {
+              "code": "ADOLESCENTE_GAFAS_SOL",
+              "name": "Gafas de sol",
+              "url_key": "gafas-de-sol"
+            },
+            {
+              "code": "ADOLESCENTE_GORROS",
+              "name": "Gorros",
+              "url_key": "gorros"
+            },
+            {
+              "code": "ADOLESCENTE_BUFANDAS",
+              "name": "Bufandas",
+              "url_key": "bufandas"
+            },
+            {
+              "code": "ADOLESCENTE_GUANTES",
+              "name": "Guantes",
+              "url_key": "guantes"
+            },
+            {
+              "code": "ADOLESCENTE_CINTURONES",
+              "name": "Cinturones",
+              "url_key": "cinturones"
+            },
+            {
+              "code": "ADOLESCENTE_JOYERIA",
+              "name": "Joyería",
+              "url_key": "joyeria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ROPA_INFANTIL",
+      "name": "Ropa Infantil",
+      "url_key": "ropa-infantil",
+      "subcategories": [
+        {
+          "code": "INFANTIL_ROPA",
+          "name": "Infantil - Ropa",
+          "url_key": "ropa",
+          "subcategories": [
+            {
+              "code": "INFANTIL_CAMISETAS",
+              "name": "Camisetas",
+              "url_key": "camisetas"
+            },
+            {
+              "code": "INFANTIL_CAMISAS",
+              "name": "Camisas",
+              "url_key": "camisas"
+            },
+            {
+              "code": "INFANTIL_TOPS",
+              "name": "Tops",
+              "url_key": "tops"
+            },
+            {
+              "code": "INFANTIL_JERSEIS",
+              "name": "Jerséis",
+              "url_key": "jerseis"
+            },
+            {
+              "code": "INFANTIL_SUDADERAS",
+              "name": "Sudaderas",
+              "url_key": "sudaderas"
+            },
+            {
+              "code": "INFANTIL_PANTALONES",
+              "name": "Pantalones",
+              "url_key": "pantalones"
+            },
+            {
+              "code": "INFANTIL_JEANS",
+              "name": "Jeans",
+              "url_key": "jeans"
+            },
+            {
+              "code": "INFANTIL_LEGGINGS",
+              "name": "Leggings",
+              "url_key": "leggings"
+            },
+            {
+              "code": "INFANTIL_FALDAS",
+              "name": "Faldas",
+              "url_key": "faldas"
+            },
+            {
+              "code": "INFANTIL_SHORTS",
+              "name": "Shorts",
+              "url_key": "shorts"
+            },
+            {
+              "code": "INFANTIL_ABRIGOS",
+              "name": "Abrigos",
+              "url_key": "abrigos"
+            },
+            {
+              "code": "INFANTIL_CHAQUETAS",
+              "name": "Chaquetas",
+              "url_key": "chaquetas"
+            },
+            {
+              "code": "INFANTIL_VESTIDOS",
+              "name": "Vestidos",
+              "url_key": "vestidos"
+            },
+            {
+              "code": "INFANTIL_MONOS",
+              "name": "Monos",
+              "url_key": "monos"
+            }
+          ]
+        },
+        {
+          "code": "INFANTIL_INTERIOR",
+          "name": "Infantil - Ropa interior",
+          "url_key": "interior",
+          "subcategories": [
+            {
+              "code": "INFANTIL_BRAGAS",
+              "name": "Bragas",
+              "url_key": "bragas"
+            },
+            {
+              "code": "INFANTIL_CALZONCILLOS",
+              "name": "Calzoncillos",
+              "url_key": "calzoncillos"
+            },
+            {
+              "code": "INFANTIL_SUJETADORES",
+              "name": "Sujetadores",
+              "url_key": "sujetadores"
+            },
+            {
+              "code": "INFANTIL_BODYS",
+              "name": "Bodys",
+              "url_key": "bodys"
+            },
+            {
+              "code": "INFANTIL_PIJAMAS",
+              "name": "Pijamas",
+              "url_key": "pijamas"
+            }
+          ]
+        },
+        {
+          "code": "INFANTIL_ACCESORIOS",
+          "name": "Infantil - Accesorios",
+          "url_key": "accesorios",
+          "subcategories": [
+            {
+              "code": "INFANTIL_MOCHILAS",
+              "name": "Mochilas",
+              "url_key": "mochilas"
+            },
+            {
+              "code": "INFANTIL_GAFAS_SOL",
+              "name": "Gafas de sol",
+              "url_key": "gafas-de-sol"
+            },
+            {
+              "code": "INFANTIL_GORROS",
+              "name": "Gorros",
+              "url_key": "gorros"
+            },
+            {
+              "code": "INFANTIL_BUFANDAS",
+              "name": "Bufandas",
+              "url_key": "bufandas"
+            },
+            {
+              "code": "INFANTIL_GUANTES",
+              "name": "Guantes",
+              "url_key": "guantes"
+            },
+            {
+              "code": "INFANTIL_CINTURONES",
+              "name": "Cinturones",
+              "url_key": "cinturones"
+            },
+            {
+              "code": "INFANTIL_JOYERIA",
+              "name": "Joyería",
+              "url_key": "joyeria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ROPA_HOMBRE",
+      "name": "Ropa Hombre",
+      "url_key": "ropa-hombre",
+      "subcategories": [
+        {
+          "code": "HOMBRE_ROPA",
+          "name": "Hombre - Ropa",
+          "url_key": "ropa",
+          "subcategories": [
+            {
+              "code": "HOMBRE_CAMISETAS",
+              "name": "Camisetas",
+              "url_key": "camisetas"
+            },
+            {
+              "code": "HOMBRE_CAMISAS",
+              "name": "Camisas",
+              "url_key": "camisas"
+            },
+            {
+              "code": "HOMBRE_JERSEIS",
+              "name": "Jerséis",
+              "url_key": "jerseis"
+            },
+            {
+              "code": "HOMBRE_SUDADERAS",
+              "name": "Sudaderas",
+              "url_key": "sudaderas"
+            },
+            {
+              "code": "HOMBRE_PANTALONES",
+              "name": "Pantalones",
+              "url_key": "pantalones"
+            },
+            {
+              "code": "HOMBRE_JEANS",
+              "name": "Jeans",
+              "url_key": "jeans"
+            },
+            {
+              "code": "HOMBRE_LEGGINGS",
+              "name": "Leggings",
+              "url_key": "leggings"
+            },
+            {
+              "code": "HOMBRE_FALDAS",
+              "name": "Faldas",
+              "url_key": "faldas"
+            },
+            {
+              "code": "HOMBRE_SHORTS",
+              "name": "Shorts",
+              "url_key": "shorts"
+            },
+            {
+              "code": "HOMBRE_ABRIGOS",
+              "name": "Abrigos",
+              "url_key": "abrigos"
+            },
+            {
+              "code": "HOMBRE_CHAQUETAS",
+              "name": "Chaquetas",
+              "url_key": "chaquetas"
+            },
+            {
+              "code": "HOMBRE_AMERICANAS",
+              "name": "Americanas",
+              "url_key": "americanas"
+            },
+            {
+              "code": "HOMBRE_VESTIDOS",
+              "name": "Vestidos",
+              "url_key": "vestidos"
+            }
+          ]
+        },
+        {
+          "code": "HOMBRE_INTERIOR",
+          "name": "Hombre - Ropa interior",
+          "url_key": "interior",
+          "subcategories": [
+            {
+              "code": "HOMBRE_CALZONCILLOS",
+              "name": "Calzoncillos",
+              "url_key": "calzoncillos"
+            },
+            {
+              "code": "HOMBRE_PIJAMAS",
+              "name": "Pijamas",
+              "url_key": "pijamas"
+            }
+          ]
+        },
+        {
+          "code": "HOMBRE_ACCESORIOS",
+          "name": "Hombre - Accesorios",
+          "url_key": "accesorios",
+          "subcategories": [
+            {
+              "code": "HOMBRE_MOCHILAS",
+              "name": "Mochilas",
+              "url_key": "mochilas"
+            },
+            {
+              "code": "HOMBRE_GAFAS_SOL",
+              "name": "Gafas de sol",
+              "url_key": "gafas-de-sol"
+            },
+            {
+              "code": "HOMBRE_GORROS",
+              "name": "Gorros",
+              "url_key": "gorros"
+            },
+            {
+              "code": "HOMBRE_BUFANDAS",
+              "name": "Bufandas",
+              "url_key": "bufandas"
+            },
+            {
+              "code": "HOMBRE_GUANTES",
+              "name": "Guantes",
+              "url_key": "guantes"
+            },
+            {
+              "code": "HOMBRE_CINTURONES",
+              "name": "Cinturones",
+              "url_key": "cinturones"
+            },
+            {
+              "code": "HOMBRE_JOYERIA",
+              "name": "Joyería",
+              "url_key": "joyeria"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\Console\CommandList">
+        <arguments>
+            <argument name="commands" xsi:type="array">
+                <item name="atelier_catalog_product_add" xsi:type="object">Atelier\MOSSetup\Console\Command\AddProductCommand</item>
+                <item name="atelier_catalog_product_create" xsi:type="object">Atelier\MOSSetup\Console\Command\CreateProductCommand</item>
+                <item name="atelier_catalog_category_create" xsi:type="object">Atelier\MOSSetup\Console\Command\CreateCategoryCommand</item>
+                <item name="atelier_catalog_configure_attributes" xsi:type="object">Atelier\MOSSetup\Console\Command\ConfigureAttributesCommand</item>
+                <item name="atelier_catalog_configure_store" xsi:type="object">Atelier\MOSSetup\Console\Command\ConfigureStoreCommand</item>   
+                <item name="atelier_order_create" xsi:type="object">Atelier\MOSSetup\Console\Command\CreateOrderCommand</item>
+                <item name="atelier_customer_create" xsi:type="object">Atelier\MOSSetup\Console\Command\CreateCustomerCommand</item>
+                <item name="atelier_category_delete" xsi:type="object">Atelier\MOSSetup\Console\Command\DeleteCategoryCommand</item>
+                <item name="atelier_product_delete" xsi:type="object">Atelier\MOSSetup\Console\Command\DeleteProductCommand</item>
+                <item name="atelier_configurable_create" xsi:type="object">Atelier\MOSSetup\Console\Command\CreateConfigurableCommand</item>
+                <item name="atelier_setup_shipping" xsi:type="object">Atelier\MOSSetup\Console\Command\SetupShippingCommand</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <type name="Atelier\MOSSetup\Model\CategoryCodeFinder">
+        <arguments>
+            <argument name="categoryCollectionFactory" xsi:type="object">Magento\Catalog\Model\ResourceModel\Category\CollectionFactory</argument>
+        </arguments>
+    </type>
+</config>

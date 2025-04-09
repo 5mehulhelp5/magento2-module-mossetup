@@ -1,0 +1,15 @@
+Country,Region/State,Zip/Postal Code,Order Subtotal (and above),Shipping Price
+*,*,*,0,115.00
+*,*,*,100,110.00
+*,*,*,400,15.00
+*,*,*,900,10.00
+ES,*,*,0,25.00
+ES,*,*,100,20.00
+ES,*,*,400,10.00
+ES,*,*,900,5.00
+ES,Zaragoza,*,0,5.30
+ES,Zaragoza,*,100,4.30
+ES,Zaragoza,*,400,3.30
+ES,Zaragoza,*,900,2.30
+ES,Zaragoza,50012,0,0.90
+ES,Zaragoza,50012,100,0.50

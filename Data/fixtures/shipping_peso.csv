@@ -1,0 +1,11 @@
+Country,Region/State,Zip/Postal Code,Weight (and above),Shipping Price*,*,*,0,5.00
+*,*,*,0,99.00
+*,*,*,50,75.00
+ES,*,*,0,89.00
+ES,*,*,50,59.00
+ES,*,*,100,25.00
+ES,Zaragoza,*,0,16.25
+ES,Zaragoza,50012,0,11.99
+ES,Madrid,*,0,40.00
+ES,Madrid,28001,0,30.00
+ES,Madrid,28002,0,25.00
