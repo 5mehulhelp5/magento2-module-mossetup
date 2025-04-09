@@ -3,13 +3,8 @@
     "description": "Módulo para configurar una tienda Magento 2",
     "type": "magento2-module",
     "require": {
-        "php": "^8.2 || ^8.3 || ^8.4",
-        "magento/framework": "103.0.*",
-        "magento/module-catalog": "104.0.*",
-        "magento/module-configurable-product": "100.4.*",
-        "magento/module-bundle": "101.0.*",
-        "magento/module-downloadable": "100.4.*",
-        "magento/module-grouped-product": "100.4.*"
+        "php": "~8.2.0||~8.3.0||~8.4.0",
+        "magento/framework": "103.0.*"
     },
     "autoload": {
         "files": [
