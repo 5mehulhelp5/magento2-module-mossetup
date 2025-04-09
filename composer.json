@@ -16,15 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Atelier\\MOSSetup\\": "Atelier/MOSSetup/"
+            "Atelier\\MOSSetup\\": ""
         }
-    },
-    "extra": {
-    "map": [
-      [
-        "*",
-        "Atelier/MOSSetup"
-      ]
-    ]
-  }
+    }
 }
