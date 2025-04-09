@@ -1,5 +1,5 @@
 {
-    "name": "atelier/module-mos-setup",
+    "name": "atelier/mossetup",
     "description": "Módulo para configurar una tienda Magento 2",
     "type": "magento2-module",
     "require": {
