@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Console\Command;
+namespace Atelier\MosSetup\Console\Command;
 
-use Atelier\MOSSetup\Model\ProductManager;
-use Atelier\MOSSetup\Model\SystemCleanManager;
+use Atelier\MosSetup\Model\ProductManager;
+use Atelier\MosSetup\Model\SystemCleanManager;
 
 use Exception;
 use Symfony\Component\Console\Command\Command;

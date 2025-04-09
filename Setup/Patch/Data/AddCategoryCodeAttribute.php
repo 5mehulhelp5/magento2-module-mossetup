@@ -1,5 +1,5 @@
 <?php
-namespace  Atelier\MOSSetup\Setup\Patch\Data;
+namespace  Atelier\MosSetup\Setup\Patch\Data;
 
 use Magento\Catalog\Model\Category;
 use Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface;

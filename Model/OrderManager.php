@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Model;
+namespace Atelier\MosSetup\Model;
 
-use Atelier\MOSSetup\Logger\CustomLogger;
-use Atelier\MOSSetup\Helper\SecureContextExecutor;
+use Atelier\MosSetup\Logger\CustomLogger;
+use Atelier\MosSetup\Helper\SecureContextExecutor;
 
 use Magento\Catalog\Api\ProductRepositoryInterface;
 use Magento\Catalog\Model\ResourceModel\Product\CollectionFactory as ProductCollectionFactory;

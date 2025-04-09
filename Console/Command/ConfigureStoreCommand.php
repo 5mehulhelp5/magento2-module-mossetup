@@ -1,5 +1,5 @@
 <?php
-namespace Atelier\MOSSetup\Console\Command;
+namespace Atelier\MosSetup\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

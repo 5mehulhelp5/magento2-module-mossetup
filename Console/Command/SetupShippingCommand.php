@@ -1,11 +1,11 @@
 <?php
-namespace Atelier\MOSSetup\Console\Command;
+namespace Atelier\MosSetup\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Input\InputOption;
-use Atelier\MOSSetup\Model\ShippingManager;
+use Atelier\MosSetup\Model\ShippingManager;
 
 class SetupShippingCommand extends Command
 {

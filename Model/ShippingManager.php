@@ -1,11 +1,11 @@
 <?php
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Model;
+namespace Atelier\MosSetup\Model;
 
-use Atelier\MOSSetup\Logger\CustomLogger;
-use Atelier\MOSSetup\Helper\SecureContextExecutor;
-use Atelier\MOSSetup\Model\SystemCleanManager;
+use Atelier\MosSetup\Logger\CustomLogger;
+use Atelier\MosSetup\Helper\SecureContextExecutor;
+use Atelier\MosSetup\Model\SystemCleanManager;
 
 use Magento\Framework\App\Config\Storage\WriterInterface;
 use Magento\Framework\App\Config\ScopeConfigInterface;

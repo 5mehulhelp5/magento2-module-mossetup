@@ -1,8 +1,8 @@
 <?php
-namespace Atelier\MOSSetup\Console\Command;
+namespace Atelier\MosSetup\Console\Command;
 
-use Atelier\MOSSetup\Model\CategoryManager;
-use Atelier\MOSSetup\Model\SystemCleanManager;
+use Atelier\MosSetup\Model\CategoryManager;
+use Atelier\MosSetup\Model\SystemCleanManager;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

@@ -1,10 +1,10 @@
 <?php
-namespace Atelier\MOSSetup\Console\Command;
+namespace Atelier\MosSetup\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
-use Atelier\MOSSetup\Model\CustomerManager;
+use Atelier\MosSetup\Model\CustomerManager;
 
 class CreateCustomerCommand extends Command
 {

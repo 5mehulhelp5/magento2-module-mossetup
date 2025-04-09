@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Model;
+namespace Atelier\MosSetup\Model;
 
 use Magento\Catalog\Model\ResourceModel\Category\CollectionFactory;
 use Magento\Framework\Exception\LocalizedException;

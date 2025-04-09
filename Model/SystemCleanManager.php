@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Model;
+namespace Atelier\MosSetup\Model;
 
 use Magento\Framework\App\Cache\TypeListInterface;
 use Magento\Framework\App\Cache\Manager as CacheManager;

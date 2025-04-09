@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Console\Command;
+namespace Atelier\MosSetup\Console\Command;
 
-use Atelier\MOSSetup\Model\CategoryManager;
+use Atelier\MosSetup\Model\CategoryManager;
 use Magento\Framework\Console\Cli;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

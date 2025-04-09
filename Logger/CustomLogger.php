@@ -1,5 +1,5 @@
 <?php
-namespace  Atelier\MOSSetup\Logger;
+namespace  Atelier\MosSetup\Logger;
 
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;

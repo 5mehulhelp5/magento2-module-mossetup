@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Helper;
+namespace Atelier\MosSetup\Helper;
 
-use Atelier\MOSSetup\Logger\CustomLogger;
+use Atelier\MosSetup\Logger\CustomLogger;
 
 use Magento\Framework\App\State;
 use Magento\Framework\App\Area;

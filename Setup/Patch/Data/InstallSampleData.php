@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Atelier\MOSSetup\Setup\Patch\Data;
+namespace Atelier\MosSetup\Setup\Patch\Data;
 
 use Magento\Framework\Setup\ModuleDataSetupInterface;
 use Magento\Framework\Setup\Patch\DataPatchInterface;
@@ -40,7 +40,7 @@ class InstallSampleData implements DataPatchInterface
     {
         $this->moduleDataSetup->getConnection()->startSetup();
 
-        $moduleDir = $this->moduleDirReader->getModuleDir('', 'Atelier_MOSSetup');
+        $moduleDir = $this->moduleDirReader->getModuleDir('', 'Atelier_MosSetup');
 
         foreach ($this->filesToCopy as $sourceName => $destinationName) {
             $sourceFile = $moduleDir . '/Data/fixtures/' . $sourceName;

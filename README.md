@@ -13,12 +13,12 @@ Este módulo proporciona herramientas para crear datos de prueba para un catálo
 - Comandos para limpiar, crear y añadir datos
 
 ## Instalación
-1. Copiar el módulo en la carpeta `app/code/Atelier/MOSSetup`
+1. Copiar el módulo en la carpeta `app/code/Atelier/MosSetup`
 
 2. Habilitar el módulo: 
 
 ```bash 
-bin/magento module:enable Atelier_MOSSetup 
+bin/magento module:enable Atelier_MosSetup 
 ```
 
 3. Actualizar la base de datos: 
