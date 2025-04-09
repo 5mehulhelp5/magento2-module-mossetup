@@ -1,4 +1,4 @@
-# Módulo de utilidades para alimentar Magento 2.4.7
+# Módulo de utilidades para alimentar Magento 2.4.7 y 2.4.8
 Este módulo proporciona herramientas para crear datos de prueba para un catálogo de Magento 2, incluyendo categorías y diferentes tipos de productos.
 
 ## Funcionalidades
