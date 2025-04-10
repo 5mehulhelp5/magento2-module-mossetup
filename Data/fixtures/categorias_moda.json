@@ -540,11 +540,6 @@
               "url_key": "jeans"
             },
             {
-              "code": "HOMBRE_LEGGINGS",
-              "name": "Leggings",
-              "url_key": "leggings"
-            },
-            {
               "code": "HOMBRE_FALDAS",
               "name": "Faldas",
               "url_key": "faldas"
@@ -568,11 +563,6 @@
               "code": "HOMBRE_AMERICANAS",
               "name": "Americanas",
               "url_key": "americanas"
-            },
-            {
-              "code": "HOMBRE_VESTIDOS",
-              "name": "Vestidos",
-              "url_key": "vestidos"
             }
           ]
         },
